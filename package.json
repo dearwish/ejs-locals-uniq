@@ -1,16 +1,13 @@
 {
-  "author": "Tom Carden <tom@tom-carden.co.uk>",
-  "contributors": [
-    "Robert Sköld <robert@publicclass.se> (http://publicclass.se)"
-  ],
-  "name": "ejs-locals",
-  "description": "Express 3.x locals for layout, partial and blocks.",
-  "version": "1.0.2",
+  "author": "David Roberin <dearwish@users.noreply.github.com>",
+  "name": "ejs-locals-uniq",
+  "description": "Express 3.x locals for layout, partial and blocks with unique blocks support.",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/randometc/ejs-locals.git"
+    "url": "git@github.com:dearwish/ejs-locals-uniq.git"
   },
-  "homepage": "https://github.com/randometc/ejs-locals",
+  "homepage": "https://github.com/dearwish/ejs-locals-uniq",
   "engines": {
     "node": ">=0.6.0"
   },
