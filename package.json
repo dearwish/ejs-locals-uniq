@@ -22,5 +22,14 @@
   },
   "scripts": {
     "test": "mocha -r should -R spec"
-  }
+  },
+  "keywords" : [
+    "ejs",
+    "ejs-locals",
+    "partial",
+    "layout",
+    "block",
+    "template",
+    "unique"
+  ],
 }
